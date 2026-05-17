@@ -1,5 +1,6 @@
-# Evita los enemigos / pygame
 
+# Evita los enemigos / pygame
+print("Cambio realizado desde la web de GitHub")
 import pygame
 import random
 # Inicializar Pygame
