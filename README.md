@@ -3,9 +3,7 @@
 
 Descripción del Proyecto:
 
-Crea una interfaz donde el jugador deba esquivar objetos que caen desde la parte superior. Si el jugador toca uno, se termina el juego. Aumenta la velocidad con el tiempo para subir la dificultad.
-
-
+Interfaz donde el jugador debe esquivar objetos que caen desde la parte superior. Si el jugador toca uno, se termina el juego. Aumenta la velocidad con el tiempo para subir la dificultad.
 
  Colaboradores: 
 
