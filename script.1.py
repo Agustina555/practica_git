@@ -1,5 +1,5 @@
 # Evita los enemigos / pygame
-
+print("Cambio realizado localmente en mi PC")
 import pygame
 import random
 # Inicializar Pygame
