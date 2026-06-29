@@ -1,6 +1,6 @@
 
 # Evita los enemigos / pygame
-print("Cambio realizado desde la web de GitHub")
+print("Bienvenidos a Evita los enemigos")
 print("Cambio realizado localmente en mi PC")
 
 import pygame
